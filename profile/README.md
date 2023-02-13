@@ -2,7 +2,7 @@
   <a href="https://www.xenongroup.tech/"><img src="https://raw.githubusercontent.com/Xenon-project/.github/main/profile/2.png" height="128" width="128" alt="Archcraft"></a>
 </p>
 
-<h1 align="center">Xenon Team</h1>
+<h1 align="center">Xenon Project</h1>
 
 
 
